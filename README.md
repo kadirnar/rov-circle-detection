@@ -3,4 +3,4 @@
 
 100 resim ile circle tespiti:
 
-<img height="600" src="/rov.png"/>
+<img height="600" src="/rov.jpg"/>
