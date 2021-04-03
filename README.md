@@ -10,6 +10,6 @@ Teknofest İnsansız Su Altı Sistemler Yarışması için Çember Tespiti
 * [ ] Çember Veri Seti Oluşturma.
 * [ ] Yolov4, Yolov4x-Mish ve Yolov4-Csp modellerinde Eğitim ve Test.
 * [ ] Opencv Kullanarak Yolo Modellerini Test.
-* [ ] Tespit ettiği resimlerden kordinat ve nesne bilgisini .txt dosyasına yazdırma.
+* [ ] Tespit Ettiği Resim/Video'lardan Kordinat ve Nesne Bilgisini .txt Dosyasına Yazdırma.
 * [ ] Yolo modelini TF2-YOLO ve Yolov4-TensorRT modeline çevirme.
 * [ ] Projeyi Script Haline Getirme.
