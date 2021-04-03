@@ -19,7 +19,7 @@
 
 ### EĞİTİM İÇERİĞİ
 
-**BÖLÜM 1:Çember Veri Seti Oluşturma** 
+**BÖLÜM 1: Çember Veri Seti Oluşturma** 
 
 - Yakında Eklenecektir
 
