@@ -2,7 +2,8 @@
 ##### Teknofest İnsansız Su Altı Sistemler Yarışması için Çember Tespiti
 
 
-##### 100 Resimlik Yolov4-Yiny Model Sonuçu:
+100 Resimlik Yolov4-Yiny Model Sonuçu:
+
 <img height="250" src="/rov.jpg"/>
 
 
