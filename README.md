@@ -1,8 +1,7 @@
 # rov-circle-detection
 İnsansız Su Altı Aracı için Çember Tespiti
 
-### Not: 
-İlerleyen zamanlar da repo düzenlenecektir.
-100 resim ile circle tespiti:
+### Not: Halen devam eden bir projedir.
+
 
 <img height="600" src="/rov.jpg"/>
