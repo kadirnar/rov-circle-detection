@@ -39,15 +39,15 @@ Teknofest İnsansız Su Altı Sistemler Yarışması için Çember Tespiti
 - Yakında Eklenecektir
 
 
-**[BÖLÜM 5: Yolo modelini TF2-YOLO ve Yolov4-TensorRT modeline çevirme.]**
+**BÖLÜM 5: Yolo modelini TF2-YOLO ve Yolov4-TensorRT modeline çevirme.**
 
 - Yakında Eklenecektir
 
 
-**[BÖLÜM 6: Yakında Eklenecektir.]**
+**BÖLÜM 6: Yakında Eklenecektir.**
 
 - Projeyi Script Haline Getirme
 
-**[BÖLÜM 6:Bonus: Pytorch Yolov5s/Yolov5m/Yolov5l/Yolov5x modelleri ile eğitim ve test.]**
+**BÖLÜM 6:Bonus: Pytorch Yolov5s/Yolov5m/Yolov5l/Yolov5x modelleri ile eğitim ve test.**
 
 - Yakında Eklenecektir
