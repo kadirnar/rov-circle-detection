@@ -44,7 +44,7 @@
 - Yakında Eklenecektir
 
 
-**BÖLÜM 6: Yakında Eklenecektir.**
+**BÖLÜM 6: Projeyi Script Haline Getirme.**
 
 - Projeyi Script Haline Getirme
 
