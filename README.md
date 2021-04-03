@@ -1,7 +1,7 @@
 # rov-circle-detection
 Teknofest İnsansız Su Altı Sistemler Yarışması için Çember Tespiti
 
-### Not: Halen devam eden bir projedir.
+### Not: Devam eden bir projedir.
 
 ##### 100 Resimlik Yolov4-Yiny Model Sonuçu:
 <img height="250" src="/rov.jpg"/>
