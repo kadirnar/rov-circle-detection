@@ -48,5 +48,6 @@ Teknofest İnsansız Su Altı Sistemler Yarışması için Çember Tespiti
 
 - Projeyi Script Haline Getirme
 
-**[BÖLÜM 6: Yakında Eklenecektir.]**
+**[BÖLÜM 6:Bonus: Pytorch Yolov5s/Yolov5m/Yolov5l/Yolov5x modelleri ile eğitim ve test.]**
+
 - Yakında Eklenecektir
