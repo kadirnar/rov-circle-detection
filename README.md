@@ -6,8 +6,6 @@ Teknofest İnsansız Su Altı Sistemler Yarışması için Çember Tespiti
 ##### 100 Resimlik Yolov4-Yiny Model Sonuçu:
 <img height="250" src="/rov.jpg"/>
 
-Bölüm-1
-
 
 ### Yapılacaklar Listesi:
 * [ ] Çember Veri Seti Oluşturma.
@@ -21,31 +19,34 @@ Bölüm-1
 
 ### EĞİTİM İÇERİĞİ
 
-**[BÖLÜM 1: Yakında Eklenecektir.]** 
+**[Çember Veri Seti Oluşturma]** 
 
 - Yakında Eklenecektir
 
 
-**[BÖLÜM 2: Yakında Eklenecektir.]** 
+**[BÖLÜM 2: Yolov4, Yolov4x-Mish ve Yolov4-Csp modellerinde Eğitim ve Test.]** 
 
 - Yakında Eklenecektir
 
 
-**[BÖLÜM 3: Yakında Eklenecektir.]**
+**[BÖLÜM 3: Opencv Kullanarak Yolo Modellerini Test.]**
 
 - Yakında Eklenecektir
  
 
-**[BÖLÜM 4: Yakında Eklenecektir.]** 
+**[BÖLÜM 4: Tespit Ettiği Resim/Video'lardan Kordinat ve Nesne Bilgisini .txt Dosyasına Yazdırma.]** 
 
 - Yakında Eklenecektir
 
 
-**[BÖLÜM 5: Yakında Eklenecektir.]**
+**[BÖLÜM 5: Yolo modelini TF2-YOLO ve Yolov4-TensorRT modeline çevirme.]**
 
 - Yakında Eklenecektir
 
 
 **[BÖLÜM 6: Yakında Eklenecektir.]**
 
+- Projeyi Script Haline Getirme
+
+**[BÖLÜM 6: Yakında Eklenecektir.]**
 - Yakında Eklenecektir
