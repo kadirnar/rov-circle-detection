@@ -1,4 +1,4 @@
-# rov-circle-detection
+# Rov-Circle-Detection
 Teknofest İnsansız Su Altı Sistemler Yarışması için Çember Tespiti
 
 ### Not: Devam eden bir projedir.
