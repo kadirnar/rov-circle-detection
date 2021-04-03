@@ -23,29 +23,29 @@ Bölüm-1
 
 **[BÖLÜM 1: Yakında Eklenecektir.]** 
 
-- Motivasyon
+- Yakında Eklenecektir
 
 
 **[BÖLÜM 2: Yakında Eklenecektir.]** 
 
-- Derin Öğrenmeyi Başarılı Yapan Farkları
+- Yakında Eklenecektir
 
 
 **[BÖLÜM 3: Yakında Eklenecektir.]**
 
-- Vektörler / Matrisler / Tensörler
+- Yakında Eklenecektir
  
 
 **[BÖLÜM 4: Yakında Eklenecektir.]** 
 
-- Katmanlar
+- Yakında Eklenecektir
 
 
 **[BÖLÜM 5: Yakında Eklenecektir.]**
 
-- Denetimli Öğrenme
+- Yakında Eklenecektir
 
 
 **[BÖLÜM 6: Yakında Eklenecektir.]**
 
-- Evrişimli Sinir Ağı Kullanım Alanları
+- Yakında Eklenecektir
