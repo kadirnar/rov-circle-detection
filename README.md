@@ -19,22 +19,22 @@ Teknofest İnsansız Su Altı Sistemler Yarışması için Çember Tespiti
 
 ### EĞİTİM İÇERİĞİ
 
-**[Çember Veri Seti Oluşturma]** 
+**Çember Veri Seti Oluşturma** 
 
 - Yakında Eklenecektir
 
 
-**[BÖLÜM 2: Yolov4, Yolov4x-Mish ve Yolov4-Csp modellerinde Eğitim ve Test.]** 
+**BÖLÜM 2: Yolov4, Yolov4x-Mish ve Yolov4-Csp modellerinde Eğitim ve Test.** 
 
 - Yakında Eklenecektir
 
 
-**[BÖLÜM 3: Opencv Kullanarak Yolo Modellerini Test.]**
+**BÖLÜM 3: Opencv Kullanarak Yolo Modellerini Test.**
 
 - Yakında Eklenecektir
  
 
-**[BÖLÜM 4: Tespit Ettiği Resim/Video'lardan Kordinat ve Nesne Bilgisini .txt Dosyasına Yazdırma.]** 
+**BÖLÜM 4: Tespit Ettiği Resim/Video'lardan Kordinat ve Nesne Bilgisini .txt Dosyasına Yazdırma.** 
 
 - Yakında Eklenecektir
 
