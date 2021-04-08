@@ -21,7 +21,8 @@
 
 **BÖLÜM 1: Çember Veri Seti Oluşturma** 
 
-- Yakında Eklenecektir
+- Degz firmasının yapmış olduğu similasyondan veri seti toplanacaktır.
+ Link: https://drive.google.com/file/d/1Z40BsEu26eAOSFOosafpFV4B2GXjeN63/view
 
 
 **BÖLÜM 2: Yolov4, Yolov4x-Mish ve Yolov4-Csp modellerinde Eğitim ve Test.** 
