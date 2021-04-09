@@ -1,4 +1,4 @@
-# Rov-Circle-Detection
+# Rov-Çember-Tespiti
 ##### Teknofest İnsansız Su Altı Sistemler Yarışması için Çember Tespiti
 
 
