@@ -52,3 +52,19 @@
 **BÖLÜM 6:Bonus: Pytorch Yolov5s/Yolov5m/Yolov5l/Yolov5x modelleri ile eğitim ve test.**
 
 - Yakında Eklenecektir
+
+## Destek
+
+Katkıda bulunmayı düşünmeniz gerçekten çok güzel bir haber, bunun için [DESTEK](/CONTRIBUTING.md) bağlantısına göz atabilirsiniz.
+
+## Soru & Cevap
+
+Dokümanlar, kaynak kodlar veya her hangi bir konuda ki sorularınızı **issues** bölümünü kullanarak sorabilirsiniz (new issues). Soru cevaplamak veya daha öncekilere göz atmak isterseniz yine bu bölümü kullanabilirsiniz.
+
+**Nasıl Soru Sorulur?**
+
+Öncelikle [issues](https://github.com/mesutpiskin/opencv-tutorial/issues) bölümüne gidiniz. Sayfanın sağında yer alan **new issues** butonuna tıklayın. Açılan ilgili bölüme sorunuzu veya talebinizi açıklayıcı bir şekilde yazarak **Submit new issues** butonu aracılığıyla kaydedin.
+
+## Lisans
+
+Bu proje içerisinde yer alan doküman ve kaynak kodlar [MIT Lisansı](/LICENSE) ile lisanslanmıştır. İçeriğin **kaynak gösterilmeden** kullanılması durumunda bu kişiler/kurumlar [bu bölümde](/other/blacklist.md) paylaşılacaktır.
