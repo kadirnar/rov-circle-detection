@@ -1,6 +1,6 @@
 # Rov-Çember-Tespiti
 ##### Teknofest İnsansız Su Altı Sistemler Yarışması için Çember Tespiti
-
+# Bu çalışma yetersiz veri setinden dolayı askıya alınmıştır.
 
 100 Resimlik Yolov4-Yiny Model Sonuçu:
 
